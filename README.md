@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vouchly Expense Voucher Management
 
 Vouchly is a full-stack expense-voucher workflow application for the PSPL workspace.
@@ -190,3 +191,6 @@ npm run build
 # Preview the client build
 npm run preview
 ```
+=======
+# expense-voucher-management
+>>>>>>> f788b733faf468c526a1b84549fd49a30fc37e79
